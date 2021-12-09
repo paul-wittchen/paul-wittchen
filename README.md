@@ -3,7 +3,7 @@
 - Software Engineer @ [Scalable Capital](https://scalable.capital)
 
 ## Follow me on 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Paul_Wittchen.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Paul_Wittchen) & [![Linkedin](https://img.shields.io/linkedin/url/https/linkedin.com/paul-wittchen.svg?style=social&label=Follow%20%40bukotsunikki)](https://www.linkedin.com/in/paul-wittchen/)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Paul_Wittchen.svg?style=social&label=Follow%20%40Paul_Wittchen)](https://twitter.com/Paul_Wittchen) 
 
 
 ## Working with:

@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Paul 👋
 
-<!--
-**paul-wittchen/paul-wittchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer @ [Scalable](https://scalable.capital)
 
-Here are some ideas to get you started:
+## Follow me on 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Paul_Wittchen.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Paul_Wittchen) & [Linkedin](https://www.linkedin.com/in/paul-wittchen/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Working with:
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B    
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
+https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white
+https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
+
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-wittchen&show_icons=true&count_private=true)

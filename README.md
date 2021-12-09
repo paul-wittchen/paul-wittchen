@@ -1,9 +1,9 @@
 ### Hi there, I'm Paul 👋
 
-- Software Engineer @ [Scalable](https://scalable.capital)
+- Software Engineer @ [Scalable Capital](https://scalable.capital)
 
 ## Follow me on 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Paul_Wittchen.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Paul_Wittchen) & [Linkedin](https://www.linkedin.com/in/paul-wittchen/)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Paul_Wittchen.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Paul_Wittchen) & [![Linkedin](https://img.shields.io/linkedin/url/https/linkedin.com/paul-wittchen.svg?style=social&label=Follow%20%40bukotsunikki)](https://www.linkedin.com/in/paul-wittchen/)
 
 
 ## Working with:

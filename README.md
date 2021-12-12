@@ -2,7 +2,7 @@
 
 - Software Engineer @ [Scalable Capital](https://scalable.capital)
 
-## Follow me on 
+## Follow me
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Paul_Wittchen.svg?style=social&label=Follow%20%40Paul_Wittchen)](https://twitter.com/Paul_Wittchen) 
 
 
